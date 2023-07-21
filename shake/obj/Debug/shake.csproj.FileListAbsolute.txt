@@ -1,0 +1,11 @@
+C:\Users\ahmed\source\repos\Data Struts\shake\shake\bin\Debug\shake.exe.config
+C:\Users\ahmed\source\repos\Data Struts\shake\shake\bin\Debug\shake.exe
+C:\Users\ahmed\source\repos\Data Struts\shake\shake\bin\Debug\shake.pdb
+C:\Users\ahmed\source\repos\Data Struts\shake\shake\obj\Debug\shake.csproj.AssemblyReference.cache
+C:\Users\ahmed\source\repos\Data Struts\shake\shake\obj\Debug\shake.csproj.SuggestedBindingRedirects.cache
+C:\Users\ahmed\source\repos\Data Struts\shake\shake\obj\Debug\shake.Form1.resources
+C:\Users\ahmed\source\repos\Data Struts\shake\shake\obj\Debug\shake.Properties.Resources.resources
+C:\Users\ahmed\source\repos\Data Struts\shake\shake\obj\Debug\shake.csproj.GenerateResource.cache
+C:\Users\ahmed\source\repos\Data Struts\shake\shake\obj\Debug\shake.csproj.CoreCompileInputs.cache
+C:\Users\ahmed\source\repos\Data Struts\shake\shake\obj\Debug\shake.exe
+C:\Users\ahmed\source\repos\Data Struts\shake\shake\obj\Debug\shake.pdb
